@@ -1,0 +1,9 @@
+tdv2/__pycache__/*
+
+# Packages
+*.dmg
+*.zip
+*.tar
+*.iso
+*.jar
+
