@@ -2,7 +2,7 @@
 
 <br />
 <p align="center">
-  <h3 align="center">Tweet Hydrator, Developer API v2</h3>
+  <h1 align="center">Tweet Hydrator, Developer API v2</h1>
   <p align="center">
     Hydrate tweets given a list of tweet IDs using the new Twitter Developer API version 2.
     <br />
@@ -73,7 +73,7 @@ This space will contain examples of OAuth 1 and OAuth 2 in API v2.
 
 #### Tweet Lookup
 
-Lookup tweets via the `https://api.twitter.com/2/tweets` endpoint from a list of tweet IDs. 
+Lookup tweets via the `https://api.twitter.com/2/tweets` endpoint from a list of tweet IDs.
 
 See [Twitter's documentation](https://developer.twitter.com/en/docs/twitter-api/tweets/lookup/api-reference/get-tweets#requests) to learn more about parameter options.
 
